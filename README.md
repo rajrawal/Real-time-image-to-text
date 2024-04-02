@@ -43,6 +43,7 @@ The project consists of the following components:
 
 ## Captured Image
 ![img1](https://github.com/rajrawal/Real-time-image-to-text/assets/119045146/43e5a7c5-5a4e-4032-895a-1b81cd700726)
-### After text Detection
-![img2](https://github.com/rajrawal/Real-time-image-to-text/assets/119045146/9fdebbe1-3e5b-4328-840e-0bb7e6648e67)
+### After Text Detection
+![img1](https://github.com/rajrawal/Real-time-image-to-text/assets/119045146/8932dfe3-4f3a-4fde-9e1b-428c843ab704)
+
 
